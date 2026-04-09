@@ -2,6 +2,9 @@
 Scans yellow nodes within the minimap using GUI interface
 
 # Instructions
+
+Run in terminal: pip install opencv-python numpy mss pygame
+
 Execute minimap_scanner.py
 
 Select ellipse region of minimap
