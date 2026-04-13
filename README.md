@@ -21,3 +21,9 @@ If you want to run the source code or tweak the color detection algorithms:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/mccoolsa/minimap_scanner.git](https://github.com/mccoolsa/minimap_scanner.git)
+
+2. Install the required dependencies:
+   pip install -r requirements.txt
+
+3. Run the application
+   python minimap_scanner.py
