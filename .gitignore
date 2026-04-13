@@ -1,0 +1,15 @@
+#Python environment
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+#PyInstaller build files
+build/
+dist/
+*.spec
+*.exe
+
+#OS generated files
+.DS_Store
+Thumbs.db
