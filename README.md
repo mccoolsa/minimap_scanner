@@ -28,4 +28,4 @@ If you want to run the source code or tweak the color detection algorithms:
    python minimap_scanner.py
 
 ## ⚠️ ⚠️ DISCLAIMER ⚠️ ⚠️
-This file is in its maiden version, expect bugs to occur (where other yellow instances occur on the map that are similar to nodes), also glitches out and pings where there are valid quest givers, so this file is primarily for people on mining routes / AFK farming within WoW. In future versions, we aim to increase the rate of scanning with a stronger focus on the colour scheme of nodes to avoid over-sensitivity. 
+This file is in its beta 1.0 version, expect bugs to occur (where other yellow instances occur on the map that are similar to nodes), also glitches out and pings where there are valid quest givers, so this file is primarily for people on mining routes / AFK farming within WoW. In future versions, we aim to increase the rate of scanning with a stronger focus on the colour scheme of nodes to avoid over-sensitivity. 
